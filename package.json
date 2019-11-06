@@ -20,7 +20,6 @@
     "ansi-colors": "^4.1.1",
     "enquirer": "^2.3.2",
     "got": "^9.6.0",
-    "humanize-string": "^2.1.0",
-    "inquirer-autocomplete-prompt": "^1.0.1"
+    "humanize-string": "^2.1.0"
   }
 }
