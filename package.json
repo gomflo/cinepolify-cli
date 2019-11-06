@@ -1,9 +1,14 @@
 {
   "name": "cinepolify-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cartelera de Cinépolis desde la terminal",
   "main": "index.js",
-  "keywords": ["cinepolis", "cartelera", "cinema", "mexico"],
+  "keywords": [
+    "cinepolis",
+    "cartelera",
+    "cinema",
+    "mexico"
+  ],
   "repository": "gomflo/cinepolify-cli",
   "author": "",
   "license": "ISC",
