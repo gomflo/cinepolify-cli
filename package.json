@@ -7,8 +7,10 @@
     "cinepolis",
     "cartelera",
     "cinema",
-    "mexico"
+    "mexico",
+    "cli"
   ],
+  "bin": { "cinepolify": "./index.js" },
   "repository": "gomflo/cinepolify-cli",
   "author": "",
   "license": "ISC",
