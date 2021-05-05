@@ -1,3 +1,5 @@
+# [REPOSITORIO SIN MATENIMIENTO]
+
 # cinepolify-cli
 
 Consulta la cartelera de Cinépolis desde la termina de forma interactiva.
