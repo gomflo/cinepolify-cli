@@ -19,7 +19,7 @@
   "dependencies": {
     "ansi-colors": "^4.1.1",
     "enquirer": "^2.3.2",
-    "got": "^9.6.0",
+    "got": "^11.8.5",
     "humanize-string": "^2.1.0"
   }
 }
